@@ -1,4 +1,4 @@
-. ${HOME}/.bash/bash_aliases
+. ${HOME}/bashrc/bash_aliases
 export EDITOR=vim
 
 if [ -f "${HOME}/.bash/.bash-git-prompt/gitprompt.sh" ]; then
